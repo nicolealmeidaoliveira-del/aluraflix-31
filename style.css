@@ -1,0 +1,21 @@
+body{
+    background-color: aliceblue;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+}
+h1{
+
+    color: crimson;
+    font-size: 40px;
+}
+p{
+    font-size: 25px;
+}
+header{
+  border-bottom: forestgreen;
+  margin: 2px;
+  padding: 10px;
+  color: darkmagenta;
+  
+}
